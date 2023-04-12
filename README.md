@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Meenurose
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python language
-- 📫 How to reach me meenurose20@gmail.com
+- 📫 reach me at meenurose20@gmail.com
 
 <!---
 Meenurose/Meenurose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
